@@ -1,5 +1,4 @@
-## Cátedra MANEDS
-# MásMóvil for Advanced Network Engineering and Digital Services.
+## MásMóvil for Advanced Network Engineering and Digital Services.
 
 <!--
 
