@@ -1,5 +1,13 @@
 ## MásMóvil for Advanced Network Engineering and Digital Services.
 
+### General Considerations
+
+1. Naming Conventions:
+
+  - Repository names:
+  
+    All repositories will be **kebab-case** (e.g. example-repository-name).
+
 <!--
 
 **Here are some ideas to get you started:**
