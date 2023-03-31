@@ -14,19 +14,19 @@
     It will include both the group and repository name as follows -> **group-name_repo-name**
     For instance, the following repositories:
     
-    -- first-group_first-repo
-    -- first-group_second-repo
-    -- second-group_first-repo
+    - first-group_first-repo
+    - first-group_second-repo
+    - second-group_first-repo
     
     Would be equivalent to the below tree structure:
     
     ```
     .
-├── first-group/
-│   ├── first-repo
-│   └── second-repo
-└── second-group/
-    └── first-repo
+    ├── first-group/
+    │   ├── first-repo
+    │   └── second-repo
+    └── second-group/
+        └── first-repo
     ```
 
 <!--
