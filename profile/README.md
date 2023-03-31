@@ -4,9 +4,30 @@
 
 1. Naming Conventions:
 
-  - Repository names:
+  - Repository & group names:
   
-    All repository names will be **kebab-case** (e.g. example-repository-name).
+    All repository and group names will be **kebab-case** (e.g. example-repository-name).
+    
+  - Full repository names:
+  
+    A full repository name indicates the repository name along with the group it belongs to.
+    It will include both the group and repository name as follows -> **group-name_repo-name**
+    For instance, the following repositories:
+    
+    -- first-group_first-repo
+    -- first-group_second-repo
+    -- second-group_first-repo
+    
+    Would be equivalent to the below tree structure:
+    
+    ```
+    .
+├── first-group/
+│   ├── first-repo
+│   └── second-repo
+└── second-group/
+    └── first-repo
+    ```
 
 <!--
 
