@@ -6,7 +6,7 @@
 
   - Repository names:
   
-    All repositories will be **kebab-case** (e.g. example-repository-name).
+    All repository names will be **kebab-case** (e.g. example-repository-name).
 
 <!--
 
