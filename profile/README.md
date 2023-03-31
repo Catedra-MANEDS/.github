@@ -2,7 +2,7 @@
 
 ### General Considerations
 
-1. Naming Conventions:
+1. **Repository Naming Convention**:
 
   - Repository & group names:
   
