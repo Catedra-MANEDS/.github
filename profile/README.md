@@ -39,22 +39,22 @@ Somos una comunidad dinámica dedicada a impulsar el conocimiento y las habilida
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="60" alt="Microscopio - Investigación" />
 <br><strong>Investigación e Innovación</strong>
 <br><sub>Explorando tecnologías de vanguardia en redes, computación en la nube, SDN, NFV, 5G/6G y servicios digitales</sub>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" alt="Libros - Educación" />
 <br><strong>Educación</strong>
 <br><sub>Proporcionando oportunidades de aprendizaje práctico a través de proyectos, talleres y programas de mentoría</sub>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" alt="Apretón de manos - Colaboración" />
 <br><strong>Colaboración</strong>
 <br><sub>Fomentando alianzas estratégicas entre la academia y líderes de la industria en telecomunicaciones</sub>
 </td>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" alt="Bombilla - Código Abierto" />
 <br><strong>Código Abierto</strong>
 <br><sub>Contribuyendo y manteniendo proyectos de código abierto que benefician a la comunidad tecnológica global</sub>
 </td>
@@ -229,8 +229,7 @@ Para involucrarte con Cátedra MANEDS:
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Catedra-MANEDS?style=social)
-![GitHub Org's stars](https://img.shields.io/github/stars/Catedra-MANEDS?style=social)
+[![Repositorios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/Catedra-MANEDS&query=$.public_repos&label=Repositorios%20Públicos&style=social&logo=github)](https://github.com/orgs/Catedra-MANEDS/repositories)
 
 </div>
 

@@ -37,17 +37,17 @@ Este es el repositorio especial `.github` para la organización **Cátedra MANED
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" width="50" alt="Casa - Perfil de Organización" />
 <br><strong>Perfil de Organización</strong>
 <br><sub>Mostrar información del perfil en la página principal de la organización</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="50" alt="Página - Archivos Comunitarios" />
 <br><strong>Archivos Comunitarios</strong>
 <br><sub>Almacenar archivos de salud comunitaria predeterminados (CODE_OF_CONDUCT, CONTRIBUTING, etc.)</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" alt="Engranaje - Configuraciones" />
 <br><strong>Configuraciones</strong>
 <br><sub>Configurar ajustes y plantillas predeterminadas de repositorios</sub>
 </td>
