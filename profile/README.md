@@ -5,7 +5,7 @@
 
 # 🎓 Cátedra MANEDS
 
-### 🌐 **Cátedra MásMóvil de Ingeniería de Redes Avanzada y Servicios Digitales**
+### 🌐 **Cátedra MásOrange for Applied-AI Network Engineering and Digital Services**
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-### 💡 *Impulsando el futuro de la ingeniería de redes y servicios digitales a través de la educación, investigación e innovación*
+### 💡 *Impulsando el futuro de la ingeniería a través de la educación, investigación e innovación*
 
 ---
 
@@ -25,8 +25,8 @@
 
 <div align="center">
 
-**¡Bienvenido a la organización Cátedra MANEDS!**  
-Somos una comunidad dinámica dedicada a impulsar el conocimiento y las habilidades en **ingeniería de redes** y **servicios digitales** a través de proyectos colaborativos, investigación de vanguardia e iniciativas educativas innovadoras.
+**¡Bienvenido a la Cátedra MANEDS!**  
+Somos una cátedra dinámica dedicada a impulsar el conocimiento y las habilidades en **Inteligencia Artifical** y **servicios digitales** a través de proyectos colaborativos, investigación de vanguardia e iniciativas educativas innovadoras.
 
 </div>
 
@@ -69,7 +69,7 @@ Somos una comunidad dinámica dedicada a impulsar el conocimiento y las habilida
 graph LR
     A[🌐 Ingeniería de Redes] --> E[Cátedra MANEDS]
     B[☁️ Computación en la Nube] --> E
-    C[🔐 Ciberseguridad] --> E
+    C[🔐 Inteligencia Artificial] --> E
     D[📡 Servicios Digitales] --> E
     E --> F[🚀 Innovación]
     E --> G[📚 Educación]
@@ -156,61 +156,6 @@ Representan esta organización lógica:
 </tr>
 </table>
 
-## 🚀 Cómo Empezar
-
-Para involucrarte con Cátedra MANEDS:
-
-<div align="center">
-
-| 🔍 **Explora** | 📖 **Aprende** | 💻 **Contribuye** | 🤝 **Colabora** |
-|:---:|:---:|:---:|:---:|
-| Navega por nuestros [repositorios](https://github.com/orgs/Catedra-MANEDS/repositories) | Consulta la documentación de cada proyecto | Sigue las convenciones y guías | Únete a las discusiones |
-
-</div>
-
-<br>
-
-### 📝 Pasos para Contribuir:
-
-```
-1️⃣ Explora → Encuentra proyectos que te interesen
-2️⃣ Fork → Crea tu copia del repositorio
-3️⃣ Desarrolla → Implementa tus mejoras
-4️⃣ Prueba → Valida tus cambios
-5️⃣ Pull Request → Comparte tu contribución
-```
-
-## 🤝 Contribuyendo
-
-¡Damos la bienvenida a contribuciones de la comunidad! Al contribuir, por favor:
-
-<table>
-<tr>
-<td width="50%">
-
-### ✅ **Sí hacer:**
-- ✓ Seguir las convenciones de nombres de repositorios
-- ✓ Escribir mensajes de commit claros y descriptivos
-- ✓ Documentar tu código y cambios
-- ✓ Respetar el estilo de código existente
-- ✓ Probar tus cambios exhaustivamente
-- ✓ Mantener la compatibilidad con versiones anteriores
-
-</td>
-<td width="50%">
-
-### ❌ **No hacer:**
-- ✗ Ignorar las guías de estilo
-- ✗ Commits sin descripción
-- ✗ Código sin documentar
-- ✗ Cambios sin pruebas
-- ✗ Romper funcionalidades existentes
-- ✗ Duplicar código innecesariamente
-
-</td>
-</tr>
-</table>
-
 ## 📞 Contacto y Recursos
 
 <div align="center">
@@ -239,12 +184,12 @@ Para involucrarte con Cátedra MANEDS:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
 
-**Construido con ❤️ por la comunidad de Cátedra MANEDS**
+**Construido con ❤️ por la Cátedra MANEDS**
 
-*Empoderando a la próxima generación de ingenieros de redes y profesionales de servicios digitales*
+*Empoderando a la próxima generación de ingenieros*
 
 ### 🌟 ¡Únete a nosotros en esta emocionante aventura tecnológica! 🌟
 
-<sub>© 2024 Cátedra MANEDS - MásMóvil | Todos los derechos reservados</sub>
+<sub>© 2026 Cátedra MANEDS - MásMóvil | Todos los derechos reservados</sub>
 
 </div>
