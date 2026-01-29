@@ -21,7 +21,7 @@
 
 </div>
 
-## 👋 ¡Bienvenido a Cátedra MANEDS!
+## 👋 ¡Bienvenido a la Cátedra MANEDS!
 
 <div align="center">
 
@@ -32,143 +32,44 @@ Somos una cátedra dinámica dedicada a impulsar el conocimiento y las habilidad
 
 <br>
 
-## 📚 Sobre Nosotros
+## 📚 Sobre la Cátedra
 
-**Cátedra MANEDS** es una alianza académico-empresarial que une la brecha entre el conocimiento teórico y la innovación práctica. Nuestra misión es dar forma al futuro de las redes y servicios digitales mediante:
+**Cátedra MANEDS (MásOrange – Universidad de Alcalá)** impulsa proyectos de **investigación aplicada** y **formación** en torno a la **ingeniería de redes** y los **servicios digitales**, conectando retos reales de la industria con el trabajo académico (TFG/TFM, becas, prototipos y publicaciones).
 
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="60" alt="Microscopio - Investigación" />
-<br><strong>Investigación e Innovación</strong>
-<br><sub>Explorando tecnologías de vanguardia en redes, computación en la nube, SDN, NFV, 5G/6G y servicios digitales</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" alt="Libros - Educación" />
-<br><strong>Educación</strong>
-<br><sub>Proporcionando oportunidades de aprendizaje práctico a través de proyectos, talleres y programas de mentoría</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" alt="Apretón de manos - Colaboración" />
-<br><strong>Colaboración</strong>
-<br><sub>Fomentando alianzas estratégicas entre la academia y líderes de la industria en telecomunicaciones</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" alt="Bombilla - Código Abierto" />
-<br><strong>Código Abierto</strong>
-<br><sub>Contribuyendo y manteniendo proyectos de código abierto que benefician a la comunidad tecnológica global</sub>
-</td>
-</tr>
-</table>
+Nuestro trabajo se articula, principalmente, en estas líneas:
+
+| | |
+|---|---|
+| 🔬 **Proyectos y líneas de investigación** | Propuesta y desarrollo de proyectos vinculados a retos reales (p. ej., IA aplicada a operaciones y atención al cliente, redes de acceso, biometría, movilidad urbana y canales digitales). |
+| 🎓 **Formación y tutorización (TFG/TFM / becas)** | Incorporación de estudiantes a proyectos con acompañamiento y aprendizaje práctico. |
+| 🤝 **Colaboración universidad-empresa** | Trabajo coordinado entre la UAH y el equipo profesional de la empresa, con enfoque aplicado y orientación a resultados. |
+| 📣 **Difusión y transferencia** | Publicación de avances, resultados y materiales (web, documentación y repositorios cuando procede). |
 
 <br>
 
-## 🎯 Nuestras Áreas de Enfoque
+## 🎯 Áreas de trabajo
 
 ```mermaid
 graph LR
-    A[🌐 Ingeniería de Redes] --> E[Cátedra MANEDS]
-    B[☁️ Computación en la Nube] --> E
-    C[🔐 Inteligencia Artificial] --> E
-    D[📡 Servicios Digitales] --> E
-    E --> F[🚀 Innovación]
-    E --> G[📚 Educación]
-    E --> H[🔬 Investigación]
+  E[Cátedra MANEDS] --> R[🌐 Redes y acceso (p. ej. FTTH)]
+  E --> AI[🤖 IA aplicada a operaciones y atención al cliente (NLP / email / asistentes)]
+  E --> B[🧬 Biometría y seguridad (SecureQRFacing)]
+  E --> M[🚦 Movilidad urbana y sostenibilidad (modelado de tráfico / ZBE)]
+  E --> C[📡 Canales y servicios digitales (e-wallets, Android Auto, notificaciones)]
 ```
 
 <div align="center">
 
-| 🌐 **Redes** | ☁️ **Cloud & Virtualización** | 🔐 **Seguridad** | 📡 **Servicios Digitales** |
+| 🌐 Redes | 🤖 IA aplicada | 🧬 Biometría / Seguridad | 📡 Servicios digitales |
 |:---:|:---:|:---:|:---:|
-| SDN/NFV | Kubernetes | Zero Trust | Diseño de APIs |
-| 5G/6G | Microservicios | Seguridad de Redes | DevOps |
-| IoT | Cloud Native | Gestión de Identidad | CI/CD |
-| Enrutamiento/Conmutación | Contenedorización | Detección de Amenazas | Monitorización |
-
-</div>
-
-## 📋 Estándares de Repositorios y Mejores Prácticas
-
-### 🏷️ Convención de Nombres de Repositorios
-
-Mantenemos una convención de nombres **estructurada y consistente** para garantizar claridad y organización en todos los proyectos:
-
-#### **📌 Nombres de Repositorios y Grupos**
-
-<div align="center">
-
-| ✅ **Formato Correcto** | ❌ **Formato Incorrecto** |
-|:---|:---|
-| `example-repository-name` | `ExampleRepositoryName` |
-| `network-tools` | `example_repository_name` |
-| `data-analysis-project` | `dataAnalysisProject` |
-
-</div>
-
-**Todos los nombres de repositorios y grupos deben usar el formato kebab-case:**
-- Palabras en minúsculas
-- Separadas por guiones (`-`)
-- Descriptivos y concisos
-
-#### **🔗 Nombres Completos de Repositorios**
-
-Un nombre completo de repositorio indica tanto el **grupo** como el **repositorio**, separados por un guión bajo:
-
-<div align="center">
-
-**Formato:** `nombre-grupo_nombre-repo`
-
-</div>
-
-**📖 Ejemplo de Estructura:**
-
-Nombres de repositorios como:
-```
-primer-grupo_primer-repo
-primer-grupo_segundo-repo
-segundo-grupo_primer-repo
-```
-
-Representan esta organización lógica:
-
-```
-📁 Organización Cátedra MANEDS
-├── 📂 primer-grupo/
-│   ├── 📄 primer-repo
-│   └── 📄 segundo-repo
-└── 📂 segundo-grupo/
-    └── 📄 primer-repo
-```
-
-#### **💡 Beneficios de Esta Convención:**
-
-<table>
-<tr>
-<td width="33%" align="center">
-🔍<br><strong>Fácil Identificación</strong><br><sub>Identifica rápidamente a qué grupo pertenece un repositorio</sub>
-</td>
-<td width="33%" align="center">
-📊<br><strong>Organización Lógica</strong><br><sub>Agrupa repositorios por proyecto, tema o equipo</sub>
-</td>
-<td width="33%" align="center">
-🔗<br><strong>Relaciones Claras</strong><br><sub>Comprende las conexiones entre repositorios relacionados</sub>
-</td>
-</tr>
-</table>
-
-## 📞 Contacto y Recursos
-
-<div align="center">
-
-### 🔗 Enlaces Importantes
-
-[![Organización](https://img.shields.io/badge/🏢-Organización_GitHub-181717?style=for-the-badge)](https://github.com/Catedra-MANEDS)
-[![Repositorios](https://img.shields.io/badge/📦-Todos_los_Proyectos-0066FF?style=for-the-badge)](https://github.com/orgs/Catedra-MANEDS/repositories)
-[![Documentación](https://img.shields.io/badge/📖-Documentación-success?style=for-the-badge)](https://github.com/Catedra-MANEDS/.github)
+| Redes de acceso (p. ej., FTTH) | Robots conversacionales (NLP) | SecureQRFacing | Canales digitales (e-wallets) |
+| Ingeniería de red y datos | Automatización de canales (email, atención) | Identidad/biometría | Android Auto / notificaciones |
+| Observación y medición | Soporte a operaciones | Protección y robustez | Comunicación cliente-servicio |
 
 </div>
 
 <br>
+
 
 ## 📊 Estadísticas de la Organización
 
@@ -185,8 +86,6 @@ Representan esta organización lógica:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
 
 **Construido con ❤️ por la Cátedra MANEDS**
-
-*Empoderando a la próxima generación de ingenieros*
 
 ### 🌟 ¡Únete a nosotros en esta emocionante aventura tecnológica! 🌟
 
