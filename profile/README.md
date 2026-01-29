@@ -1,103 +1,250 @@
 <div align="center">
 
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Cátedra%20MANEDS&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header" />
+
 # 🎓 Cátedra MANEDS
 
-## Cátedra MásMóvil for Advanced Network Engineering and Digital Services
+### 🌐 **Cátedra MásMóvil de Ingeniería de Redes Avanzada y Servicios Digitales**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Cátedra%20MANEDS-181717?logo=github)](https://github.com/Catedra-MANEDS)
-[![Repositories](https://img.shields.io/badge/View-Repositories-blue)](https://github.com/orgs/Catedra-MANEDS/repositories)
+<br>
+
+[![Organización GitHub](https://img.shields.io/badge/GitHub-Cátedra%20MANEDS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Catedra-MANEDS)
+[![Repositorios](https://img.shields.io/badge/Ver-Repositorios-0066FF?style=for-the-badge&logo=git&logoColor=white)](https://github.com/orgs/Catedra-MANEDS/repositories)
+[![Licencia](https://img.shields.io/badge/Licencia-Open%20Source-success?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
+
+<br>
+
+### 💡 *Impulsando el futuro de la ingeniería de redes y servicios digitales a través de la educación, investigación e innovación*
 
 ---
 
-*Advancing the future of network engineering and digital services through education, research, and innovation*
+</div>
+
+## 👋 ¡Bienvenido a Cátedra MANEDS!
+
+<div align="center">
+
+**¡Bienvenido a la organización Cátedra MANEDS!**  
+Somos una comunidad dinámica dedicada a impulsar el conocimiento y las habilidades en **ingeniería de redes** y **servicios digitales** a través de proyectos colaborativos, investigación de vanguardia e iniciativas educativas innovadoras.
 
 </div>
 
-## 👋 Welcome
+<br>
 
-Welcome to the **Cátedra MANEDS** organization! We are dedicated to advancing knowledge and skills in network engineering and digital services through collaborative projects, research, and educational initiatives.
+## 📚 Sobre Nosotros
 
-## 📚 About Us
+**Cátedra MANEDS** es una alianza académico-empresarial que une la brecha entre el conocimiento teórico y la innovación práctica. Nuestra misión es dar forma al futuro de las redes y servicios digitales mediante:
 
-Cátedra MANEDS is a partnership focused on:
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="60" alt="Microscopio - Investigación" />
+<br><strong>Investigación e Innovación</strong>
+<br><sub>Explorando tecnologías de vanguardia en redes, computación en la nube, SDN, NFV, 5G/6G y servicios digitales</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60" alt="Libros - Educación" />
+<br><strong>Educación</strong>
+<br><sub>Proporcionando oportunidades de aprendizaje práctico a través de proyectos, talleres y programas de mentoría</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" alt="Apretón de manos - Colaboración" />
+<br><strong>Colaboración</strong>
+<br><sub>Fomentando alianzas estratégicas entre la academia y líderes de la industria en telecomunicaciones</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" alt="Bombilla - Código Abierto" />
+<br><strong>Código Abierto</strong>
+<br><sub>Contribuyendo y manteniendo proyectos de código abierto que benefician a la comunidad tecnológica global</sub>
+</td>
+</tr>
+</table>
 
-- 🔬 **Research & Innovation**: Exploring cutting-edge technologies in networking and digital services
-- 🎯 **Education**: Providing hands-on learning opportunities for students and professionals
-- 🤝 **Collaboration**: Fostering partnerships between academia and industry
-- 💡 **Open Source**: Contributing to and maintaining open-source projects
+<br>
 
-## 📋 General Considerations
+## 🎯 Nuestras Áreas de Enfoque
 
-### 🏷️ Repository Naming Convention
-
-We follow a structured naming convention to maintain organization and clarity across all projects:
-
-#### **Repository & Group Names**
-
-All repository and group names use **kebab-case** format:
-- ✅ `example-repository-name`
-- ✅ `network-tools`
-- ❌ `ExampleRepositoryName`
-- ❌ `example_repository_name`
-
-#### **Full Repository Names**
-
-A full repository name indicates both the group and the repository, separated by an underscore: **`group-name_repo-name`**
-
-**Example:**
-
-The following repository names:
-- `first-group_first-repo`
-- `first-group_second-repo`
-- `second-group_first-repo`
-
-Are equivalent to this organizational structure:
-
-```
-📁 Organization
-├── 📂 first-group/
-│   ├── 📄 first-repo
-│   └── 📄 second-repo
-└── 📂 second-group/
-    └── 📄 first-repo
+```mermaid
+graph LR
+    A[🌐 Ingeniería de Redes] --> E[Cátedra MANEDS]
+    B[☁️ Computación en la Nube] --> E
+    C[🔐 Ciberseguridad] --> E
+    D[📡 Servicios Digitales] --> E
+    E --> F[🚀 Innovación]
+    E --> G[📚 Educación]
+    E --> H[🔬 Investigación]
 ```
 
-This naming convention helps to:
-- 🔍 Quickly identify which group a repository belongs to
-- 📊 Organize repositories logically by project or topic
-- 🔗 Maintain clear relationships between related repositories
+<div align="center">
 
-## 🚀 Getting Started
+| 🌐 **Redes** | ☁️ **Cloud & Virtualización** | 🔐 **Seguridad** | 📡 **Servicios Digitales** |
+|:---:|:---:|:---:|:---:|
+| SDN/NFV | Kubernetes | Zero Trust | Diseño de APIs |
+| 5G/6G | Microservicios | Seguridad de Redes | DevOps |
+| IoT | Cloud Native | Gestión de Identidad | CI/CD |
+| Enrutamiento/Conmutación | Contenedorización | Detección de Amenazas | Monitorización |
 
-To get involved with Cátedra MANEDS:
+</div>
 
-1. **Explore**: Browse our [repositories](https://github.com/orgs/Catedra-MANEDS/repositories) to find projects that interest you
-2. **Learn**: Check the documentation in each repository to understand the project
-3. **Contribute**: Follow the naming conventions and contribution guidelines
-4. **Collaborate**: Join discussions and share your ideas
+## 📋 Estándares de Repositorios y Mejores Prácticas
 
-## 🤝 Contributing
+### 🏷️ Convención de Nombres de Repositorios
 
-We welcome contributions from the community! When contributing:
+Mantenemos una convención de nombres **estructurada y consistente** para garantizar claridad y organización en todos los proyectos:
 
-- ✅ Follow the repository naming conventions outlined above
-- ✅ Write clear, descriptive commit messages
-- ✅ Document your code and changes
-- ✅ Respect existing code style and conventions
-- ✅ Test your changes thoroughly
+#### **📌 Nombres de Repositorios y Grupos**
 
-## 📞 Contact & Resources
+<div align="center">
 
-- 🌐 **Organization**: [Cátedra MANEDS on GitHub](https://github.com/Catedra-MANEDS)
-- 📦 **Repositories**: [Browse all projects](https://github.com/orgs/Catedra-MANEDS/repositories)
-- 📖 **Documentation**: Check individual repository README files for specific project documentation
+| ✅ **Formato Correcto** | ❌ **Formato Incorrecto** |
+|:---|:---|
+| `example-repository-name` | `ExampleRepositoryName` |
+| `network-tools` | `example_repository_name` |
+| `data-analysis-project` | `dataAnalysisProject` |
+
+</div>
+
+**Todos los nombres de repositorios y grupos deben usar el formato kebab-case:**
+- Palabras en minúsculas
+- Separadas por guiones (`-`)
+- Descriptivos y concisos
+
+#### **🔗 Nombres Completos de Repositorios**
+
+Un nombre completo de repositorio indica tanto el **grupo** como el **repositorio**, separados por un guión bajo:
+
+<div align="center">
+
+**Formato:** `nombre-grupo_nombre-repo`
+
+</div>
+
+**📖 Ejemplo de Estructura:**
+
+Nombres de repositorios como:
+```
+primer-grupo_primer-repo
+primer-grupo_segundo-repo
+segundo-grupo_primer-repo
+```
+
+Representan esta organización lógica:
+
+```
+📁 Organización Cátedra MANEDS
+├── 📂 primer-grupo/
+│   ├── 📄 primer-repo
+│   └── 📄 segundo-repo
+└── 📂 segundo-grupo/
+    └── 📄 primer-repo
+```
+
+#### **💡 Beneficios de Esta Convención:**
+
+<table>
+<tr>
+<td width="33%" align="center">
+🔍<br><strong>Fácil Identificación</strong><br><sub>Identifica rápidamente a qué grupo pertenece un repositorio</sub>
+</td>
+<td width="33%" align="center">
+📊<br><strong>Organización Lógica</strong><br><sub>Agrupa repositorios por proyecto, tema o equipo</sub>
+</td>
+<td width="33%" align="center">
+🔗<br><strong>Relaciones Claras</strong><br><sub>Comprende las conexiones entre repositorios relacionados</sub>
+</td>
+</tr>
+</table>
+
+## 🚀 Cómo Empezar
+
+Para involucrarte con Cátedra MANEDS:
+
+<div align="center">
+
+| 🔍 **Explora** | 📖 **Aprende** | 💻 **Contribuye** | 🤝 **Colabora** |
+|:---:|:---:|:---:|:---:|
+| Navega por nuestros [repositorios](https://github.com/orgs/Catedra-MANEDS/repositories) | Consulta la documentación de cada proyecto | Sigue las convenciones y guías | Únete a las discusiones |
+
+</div>
+
+<br>
+
+### 📝 Pasos para Contribuir:
+
+```
+1️⃣ Explora → Encuentra proyectos que te interesen
+2️⃣ Fork → Crea tu copia del repositorio
+3️⃣ Desarrolla → Implementa tus mejoras
+4️⃣ Prueba → Valida tus cambios
+5️⃣ Pull Request → Comparte tu contribución
+```
+
+## 🤝 Contribuyendo
+
+¡Damos la bienvenida a contribuciones de la comunidad! Al contribuir, por favor:
+
+<table>
+<tr>
+<td width="50%">
+
+### ✅ **Sí hacer:**
+- ✓ Seguir las convenciones de nombres de repositorios
+- ✓ Escribir mensajes de commit claros y descriptivos
+- ✓ Documentar tu código y cambios
+- ✓ Respetar el estilo de código existente
+- ✓ Probar tus cambios exhaustivamente
+- ✓ Mantener la compatibilidad con versiones anteriores
+
+</td>
+<td width="50%">
+
+### ❌ **No hacer:**
+- ✗ Ignorar las guías de estilo
+- ✗ Commits sin descripción
+- ✗ Código sin documentar
+- ✗ Cambios sin pruebas
+- ✗ Romper funcionalidades existentes
+- ✗ Duplicar código innecesariamente
+
+</td>
+</tr>
+</table>
+
+## 📞 Contacto y Recursos
+
+<div align="center">
+
+### 🔗 Enlaces Importantes
+
+[![Organización](https://img.shields.io/badge/🏢-Organización_GitHub-181717?style=for-the-badge)](https://github.com/Catedra-MANEDS)
+[![Repositorios](https://img.shields.io/badge/📦-Todos_los_Proyectos-0066FF?style=for-the-badge)](https://github.com/orgs/Catedra-MANEDS/repositories)
+[![Documentación](https://img.shields.io/badge/📖-Documentación-success?style=for-the-badge)](https://github.com/Catedra-MANEDS/.github)
+
+</div>
+
+<br>
+
+## 📊 Estadísticas de la Organización
+
+<div align="center">
+
+[![Repositorios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/Catedra-MANEDS&query=$.public_repos&label=Repositorios%20Públicos&style=social&logo=github)](https://github.com/orgs/Catedra-MANEDS/repositories)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by the Cátedra MANEDS community**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
 
-*Empowering the next generation of network engineers and digital service professionals*
+**Construido con ❤️ por la comunidad de Cátedra MANEDS**
+
+*Empoderando a la próxima generación de ingenieros de redes y profesionales de servicios digitales*
+
+### 🌟 ¡Únete a nosotros en esta emocionante aventura tecnológica! 🌟
+
+<sub>© 2024 Cátedra MANEDS - MásMóvil | Todos los derechos reservados</sub>
 
 </div>
