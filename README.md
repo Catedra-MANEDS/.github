@@ -116,34 +116,7 @@ El README del perfil de la organización se encuentra en [`profile/README.md`](.
 │
 └── 📂 profile/
     └── 📄 README.md          # Perfil de organización (visible públicamente en GitHub)
-│
-├── 📂 ISSUE_TEMPLATE/        # (Futuro) Plantillas de issues
-├── 📂 PULL_REQUEST_TEMPLATE/ # (Futuro) Plantillas de pull requests
-├── 📂 workflows/             # (Futuro) GitHub Actions compartidos
-└── 📄 CONTRIBUTING.md        # (Futuro) Guía de contribución global
 ```
-
-### 📂 Archivos Actuales
-
-| Archivo | Propósito | Audiencia |
-|---------|-----------|-----------|
-| `README.md` | Documentación del repositorio `.github` | Mantenedores y contribuidores |
-| `profile/README.md` | Perfil público de la organización | Todo el público visitante |
-
-## 🔧 Archivos de Salud Comunitaria
-
-Los archivos de salud comunitaria en este repositorio se aplican como predeterminados a **todos los repositorios** de la organización que no tengan sus propios archivos.
-
-### 🎯 Archivos Soportados:
-
-- `CODE_OF_CONDUCT.md` - Código de conducta
-- `CONTRIBUTING.md` - Guía de contribución
-- `FUNDING.yml` - Información de patrocinio
-- `GOVERNANCE.md` - Modelo de gobernanza
-- `SECURITY.md` - Política de seguridad
-- `SUPPORT.md` - Recursos de soporte
-
-> 💡 **Nota**: Actualmente estamos desarrollando estos archivos para proporcionar directrices claras a toda la comunidad.
 
 ## 🤝 Contribuyendo
 
@@ -244,6 +217,6 @@ graph LR
 
 *Configurando la excelencia, un repositorio a la vez* 🚀
 
-<sub>Última actualización: 2024 | Mantenido por la comunidad Cátedra MANEDS</sub>
+<sub>Última actualización: 2026 | Mantenido por la comunidad Cátedra MANEDS</sub>
 
 </div>
