@@ -51,11 +51,11 @@ Nuestro trabajo se articula, principalmente, en estas líneas:
 
 ```mermaid
 graph LR
-  E[Cátedra MANEDS] --> R[🌐 Redes y acceso (p. ej. FTTH)]
-  E --> AI[🤖 IA aplicada a operaciones y atención al cliente (NLP / email / asistentes)]
-  E --> B[🧬 Biometría y seguridad (SecureQRFacing)]
-  E --> M[🚦 Movilidad urbana y sostenibilidad (modelado de tráfico / ZBE)]
-  E --> C[📡 Canales y servicios digitales (e-wallets, Android Auto, notificaciones)]
+  E["Cátedra MANEDS"] --> R["🌐 Redes y acceso (FTTH)"]
+  E --> AI["🤖 IA aplicada a operaciones y atención al cliente (NLP · email · asistentes)"]
+  E --> B["🧬 Biometría y seguridad (SecureQRFacing)"]
+  E --> M["🚦 Movilidad urbana y sostenibilidad (modelado de tráfico · ZBE)"]
+  E --> C["📡 Canales y servicios digitales (e-wallets · Android Auto · notificaciones)"]
 ```
 
 <div align="center">
