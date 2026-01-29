@@ -89,6 +89,6 @@ graph LR
 
 ### 🌟 ¡Únete a nosotros en esta emocionante aventura tecnológica! 🌟
 
-<sub>© 2026 Cátedra MANEDS - MásMóvil | Todos los derechos reservados</sub>
+<sub>© 2026 Cátedra MANEDS - MásOrange | Todos los derechos reservados</sub>
 
 </div>
