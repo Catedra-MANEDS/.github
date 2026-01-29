@@ -2,7 +2,7 @@
 
 # 🎓 Cátedra MANEDS
 
-## MásMóvil for Advanced Network Engineering and Digital Services
+## Cátedra MásMóvil for Advanced Network Engineering and Digital Services
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cátedra%20MANEDS-181717?logo=github)](https://github.com/Catedra-MANEDS)
 [![Repositories](https://img.shields.io/badge/View-Repositories-blue)](https://github.com/orgs/Catedra-MANEDS/repositories)

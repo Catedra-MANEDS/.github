@@ -5,7 +5,7 @@
 **Cátedra MásMóvil for Advanced Network Engineering and Digital Services**
 
 [![Organization](https://img.shields.io/badge/Organization-Cátedra%20MANEDS-blue)](https://github.com/Catedra-MANEDS)
-[![Profile](https://img.shields.io/badge/View-Organization%20Profile-green)](https://github.com/Catedra-MANEDS)
+[![Repositories](https://img.shields.io/badge/View-Repositories-green)](https://github.com/orgs/Catedra-MANEDS/repositories)
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## 📋 Table of Contents
 
-- [About This Repository](#-about-this-repository)
-- [Organization Profile](#-organization-profile)
-- [Repository Structure](#-repository-structure)
-- [Contributing](#-contributing)
+- [About This Repository](#about-this-repository)
+- [Organization Profile](#organization-profile)
+- [Repository Structure](#repository-structure)
+- [Contributing](#contributing)
 
 ## 🎯 About This Repository
 
