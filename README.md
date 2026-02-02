@@ -3,207 +3,207 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Repositorio%20.github&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="Header" />
 
-# 📂 Repositorio .github
+# 📂 .github Repository
 
-### 🏢 **Documentación y Configuración de la Organización Cátedra MANEDS**
-
-<br>
-
-[![Organización](https://img.shields.io/badge/Organización-Cátedra%20MANEDS-blue?style=for-the-badge&logo=github)](https://github.com/Catedra-MANEDS)
-[![Repositorios](https://img.shields.io/badge/Ver-Repositorios-green?style=for-the-badge&logo=git)](https://github.com/orgs/Catedra-MANEDS/repositories)
-[![Perfil](https://img.shields.io/badge/Perfil-Organización-purple?style=for-the-badge&logo=readme)](./profile/README.md)
+### 🏢 **Documentation and Configuration of Cátedra MANEDS Organization**
 
 <br>
 
-### 💡 *Configuración central y archivos de salud comunitaria para toda la organización*
+[![Organization](https://img.shields.io/badge/Organization-Cátedra%20MANEDS-blue?style=for-the-badge&logo=github)](https://github.com/Catedra-MANEDS)
+[![Repositories](https://img.shields.io/badge/View-Repositories-green?style=for-the-badge&logo=git)](https://github.com/orgs/Catedra-MANEDS/repositories)
+[![Profile](https://img.shields.io/badge/Profile-Organization-purple?style=for-the-badge&logo=readme)](./profile/README.md)
+
+<br>
+
+### 💡 *Central configuration and community health files for the entire organization*
 
 ---
 
 </div>
 
-## 📋 Tabla de Contenidos
+## 📋 Table of Contents
 
-- [🎯 Acerca de Este Repositorio](#-acerca-de-este-repositorio)
-- [👥 Perfil de la Organización](#-perfil-de-la-organización)
-- [📁 Estructura del Repositorio](#-estructura-del-repositorio)
-- [🔧 Archivos de Salud Comunitaria](#-archivos-de-salud-comunitaria)
-- [🤝 Contribuyendo](#-contribuyendo)
-- [📖 Recursos Adicionales](#-recursos-adicionales)
+- [🎯 About This Repository](#-about-this-repository)
+- [👥 Organization Profile](#-organization-profile)
+- [📁 Repository Structure](#-repository-structure)
+- [🔧 Community Health Files](#-community-health-files)
+- [🤝 Contributing](#-contributing)
+- [📖 Additional Resources](#-additional-resources)
 
-## 🎯 Acerca de Este Repositorio
+## 🎯 About This Repository
 
-Este es el repositorio especial `.github` para la organización **Cátedra MANEDS**. GitHub utiliza automáticamente este repositorio para:
+This is the special `.github` repository for the **Cátedra MANEDS** organization. GitHub automatically uses this repository for:
 
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" width="50" alt="Casa - Perfil de Organización" />
-<br><strong>Perfil de Organización</strong>
-<br><sub>Mostrar información del perfil en la página principal de la organización</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" width="50" alt="House - Organization Profile" />
+<br><strong>Organization Profile</strong>
+<br><sub>Display profile information on the organization's main page</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="50" alt="Página - Archivos Comunitarios" />
-<br><strong>Archivos Comunitarios</strong>
-<br><sub>Almacenar archivos de salud comunitaria predeterminados (CODE_OF_CONDUCT, CONTRIBUTING, etc.)</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="50" alt="Page - Community Files" />
+<br><strong>Community Files</strong>
+<br><sub>Store default community health files (CODE_OF_CONDUCT, CONTRIBUTING, etc.)</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" alt="Engranaje - Configuraciones" />
-<br><strong>Configuraciones</strong>
-<br><sub>Configurar ajustes y plantillas predeterminadas de repositorios</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" alt="Gear - Settings" />
+<br><strong>Settings</strong>
+<br><sub>Configure default repository settings and templates</sub>
 </td>
 </tr>
 </table>
 
-### ✨ Características Principales
+### ✨ Key Features
 
-- 🏠 **Perfil Público**: README visible en la página principal de la organización
-- 📄 **Plantillas Predeterminadas**: Issues y Pull Requests templates compartidos
-- 🔒 **Políticas de Seguridad**: Directrices de seguridad para todos los repositorios
-- 🤝 **Guías de Contribución**: Estándares unificados para contribuidores
-- ⚙️ **Workflows de GitHub Actions**: Automatizaciones compartidas
+- 🏠 **Public Profile**: README visible on the organization's main page
+- 📄 **Default Templates**: Shared Issues and Pull Requests templates
+- 🔒 **Security Policies**: Security guidelines for all repositories
+- 🤝 **Contribution Guidelines**: Unified standards for contributors
+- ⚙️ **GitHub Actions Workflows**: Shared automations
 
-## 👥 Perfil de la Organización
+## 👥 Organization Profile
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[📂 Repositorio .github] --> B[📄 profile/README.md]
-    B --> C[🌐 Página Principal de Organización]
-    A --> D[📋 Archivos Comunitarios]
-    A --> E[⚙️ Plantillas]
-    D --> F[Todos los Repositorios]
+    A[📂 .github Repository] --> B[📄 profile/README.md]
+    B --> C[🌐 Organization Main Page]
+    A --> D[📋 Community Files]
+    A --> E[⚙️ Templates]
+    D --> F[All Repositories]
     E --> F
 ```
 
 </div>
 
-El README del perfil de la organización se encuentra en [`profile/README.md`](./profile/README.md) y se muestra en la página principal de la organización. Contiene:
+The organization profile README is located in [`profile/README.md`](./profile/README.md) and is displayed on the organization's main page. It contains:
 
 <table>
 <tr>
 <td width="50%">
 
-### 📖 **Contenido del Perfil:**
-- ✨ Introducción y misión de la organización
-- 🏷️ Convenciones de nombres de repositorios
-- 📊 Áreas de enfoque y tecnologías
-- 🤝 Consideraciones generales para contribuidores
-- 🔗 Enlaces a recursos importantes
-- 📚 Guías de mejores prácticas
+### 📖 **Profile Content:**
+- ✨ Introduction and mission of the organization
+- 🏷️ Repository naming conventions
+- 📊 Focus areas and technologies
+- 🤝 General considerations for contributors
+- 🔗 Links to important resources
+- 📚 Best practices guides
 
 </td>
 <td width="50%">
 
-### 🎨 **Elementos Visuales:**
-- 🎨 Banner animado
-- 🏷️ Badges informativos
-- 📊 Tablas organizadas
-- 🔄 Diagramas Mermaid
-- 🎯 Iconos y emojis descriptivos
-- 🌈 Formato profesional
+### 🎨 **Visual Elements:**
+- 🎨 Animated banner
+- 🏷️ Informative badges
+- 📊 Organized tables
+- 🔄 Mermaid diagrams
+- 🎯 Descriptive icons and emojis
+- 🌈 Professional formatting
 
 </td>
 </tr>
 </table>
 
-## 📁 Estructura del Repositorio
+## 📁 Repository Structure
 
 ```
 📦 .github/
 │
-├── 📄 README.md              # Este archivo - Documentación del repositorio
+├── 📄 README.md              # This file - Repository documentation
 │
 └── 📂 profile/
-    └── 📄 README.md          # Perfil de organización (visible públicamente en GitHub)
+    └── 📄 README.md          # Organization profile (publicly visible on GitHub)
 ```
 
-## 🤝 Contribuyendo
+## 🤝 Contributing
 
-Este repositorio contiene documentación y estándares importantes para toda la organización. Si deseas sugerir mejoras:
+This repository contains important documentation and standards for the entire organization. If you wish to suggest improvements:
 
 <div align="center">
 
-### 🔄 Flujo de Contribución
+### 🔄 Contribution Flow
 
 ```mermaid
 graph LR
     A[🍴 Fork] --> B[🌿 Branch]
-    B --> C[✏️ Editar]
+    B --> C[✏️ Edit]
     C --> D[✅ Commit]
     D --> E[📤 Pull Request]
-    E --> F[👀 Revisión]
+    E --> F[👀 Review]
     F --> G[✨ Merge]
 ```
 
 </div>
 
-### 📝 Pasos Detallados:
+### 📝 Detailed Steps:
 
-1. **🍴 Fork este repositorio**
+1. **🍴 Fork this repository**
    ```bash
-   # Haz un fork desde la interfaz de GitHub
+   # Make a fork from the GitHub interface
    ```
 
-2. **🌿 Crea una rama de características**
+2. **🌿 Create a feature branch**
    ```bash
-   git checkout -b mejora/descripcion-del-cambio
+   git checkout -b improvement/change-description
    ```
 
-3. **✏️ Realiza tus cambios**
-   - Edita los archivos necesarios
-   - Mantén el estilo y formato existente
-   - Asegúrate de que el contenido esté en español
+3. **✏️ Make your changes**
+   - Edit the necessary files
+   - Maintain existing style and format
+   - Ensure content is in English
 
-4. **✅ Commit con mensaje claro**
+4. **✅ Commit with clear message**
    ```bash
-   git commit -m "Descripción clara del cambio"
+   git commit -m "Clear description of the change"
    ```
 
-5. **📤 Envía un Pull Request**
-   - Proporciona una descripción clara
-   - Explica el propósito de los cambios
-   - Referencia issues relacionados si aplica
+5. **📤 Submit a Pull Request**
+   - Provide a clear description
+   - Explain the purpose of the changes
+   - Reference related issues if applicable
 
-### 🎯 Directrices para Contribuciones:
+### 🎯 Contribution Guidelines:
 
 <table>
 <tr>
 <td width="50%">
 
-#### ✅ **Hacer:**
-- Mantener el formato Markdown consistente
-- Usar emojis de forma apropiada y consistente
-- Verificar que los enlaces funcionen
-- Actualizar la tabla de contenidos si es necesario
-- Seguir las convenciones de estilo existentes
-- Proporcionar ejemplos claros cuando sea relevante
+#### ✅ **Do:**
+- Maintain consistent Markdown formatting
+- Use emojis appropriately and consistently
+- Verify that links work
+- Update the table of contents if necessary
+- Follow existing style conventions
+- Provide clear examples when relevant
 
 </td>
 <td width="50%">
 
-#### ❌ **Evitar:**
-- Cambios de formato sin propósito
-- Enlaces rotos o incorrectos
-- Contenido en otros idiomas (excepto términos técnicos)
-- Eliminar información importante sin justificación
-- Cambios que afecten la legibilidad
-- Uso excesivo o inapropiado de emojis
+#### ❌ **Avoid:**
+- Format changes without purpose
+- Broken or incorrect links
+- Content in other languages (except technical terms)
+- Removing important information without justification
+- Changes that affect readability
+- Excessive or inappropriate use of emojis
 
 </td>
 </tr>
 </table>
 
-## 📖 Recursos Adicionales
+## 📖 Additional Resources
 
 <div align="center">
 
-| Recurso | Descripción | Enlace |
+| Resource | Description | Link |
 |:-------:|:------------|:------:|
-| 🏢 | **Página de Organización** | [![Visitar](https://img.shields.io/badge/-Visitar-181717?style=flat&logo=github)](https://github.com/Catedra-MANEDS) |
-| 📦 | **Todos los Repositorios** | [![Ver](https://img.shields.io/badge/-Ver-0066FF?style=flat&logo=git)](https://github.com/orgs/Catedra-MANEDS/repositories) |
-| 📄 | **Perfil Público** | [![Leer](https://img.shields.io/badge/-Leer-success?style=flat&logo=readme)](./profile/README.md) |
-| 📘 | **Guía de Markdown** | [![Docs](https://img.shields.io/badge/-Docs-blue?style=flat&logo=markdown)](https://docs.github.com/es/get-started/writing-on-github) |
+| 🏢 | **Organization Page** | [![Visit](https://img.shields.io/badge/-Visit-181717?style=flat&logo=github)](https://github.com/Catedra-MANEDS) |
+| 📦 | **All Repositories** | [![View](https://img.shields.io/badge/-View-0066FF?style=flat&logo=git)](https://github.com/orgs/Catedra-MANEDS/repositories) |
+| 📄 | **Public Profile** | [![Read](https://img.shields.io/badge/-Read-success?style=flat&logo=readme)](./profile/README.md) |
+| 📘 | **Markdown Guide** | [![Docs](https://img.shields.io/badge/-Docs-blue?style=flat&logo=markdown)](https://docs.github.com/en/get-started/writing-on-github) |
 
 </div>
 
@@ -213,10 +213,10 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
 
-**[Cátedra MANEDS](https://github.com/Catedra-MANEDS)** - Ingeniería de Redes Avanzada y Servicios Digitales
+**[Cátedra MANEDS](https://github.com/Catedra-MANEDS)** - Advanced Network Engineering and Digital Services
 
-*Configurando la excelencia, un repositorio a la vez* 🚀
+*Configuring excellence, one repository at a time* 🚀
 
-<sub>Última actualización: 2026 | Mantenido por la comunidad Cátedra MANEDS</sub>
+<sub>Last update: 2026 | Maintained by the Cátedra MANEDS community</sub>
 
 </div>
